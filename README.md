@@ -9,6 +9,9 @@ I propose a project that aims to leverage the wealth of data available from the 
 - Understand release year and popularity in music preferences.
 - Visualize trends over time to identify emerging artists and changing consumer tastes.
 
+![Dashboard](https://example.com/image.jpg)
+
+
 ## Scope
 The project will focus on extracting and analyzing data by merging multiple Spotify Datasets from Kaggle. The dataset will include information on tracks, artists, user playlists, and user listening habits. The scope will cover a defined period, allowing for trend analysis and identification of patterns. It will show the behavior of a crowd to the song along with the lyrics of the song.
 
