@@ -9,7 +9,7 @@ I propose a project that aims to leverage the wealth of data available from the 
 - Understand release year and popularity in music preferences.
 - Visualize trends over time to identify emerging artists and changing consumer tastes.
 
-![Dashboard](https://example.com/image.jpg)
+![Dashboard]([https://example.com/image.jpg](https://github.com/duaakhan26/Spotify-Dashboard-PowerBI/blob/main/Screenshot%202023-12-12%20033953.png))
 
 
 ## Scope
